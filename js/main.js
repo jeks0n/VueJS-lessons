@@ -22,6 +22,9 @@ new Vue({
         },
         dummy: function(event) {
             event.stopPropagation();
+        },
+        alertMe: function() {
+            alert('alert');
         }
     }
 });
