@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../VueJS-lessons/Lesson3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="181">
+              <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -76,10 +76,10 @@
     <bower.json value="" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="698" />
-    <option name="y" value="116" />
-    <option name="width" value="978" />
-    <option name="height" value="863" />
+    <option name="x" value="1028" />
+    <option name="y" value="140" />
+    <option name="width" value="652" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,23 +168,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579721486445</updated>
-      <workItem from="1579721489885" duration="16728000" />
+      <workItem from="1579721489885" duration="17736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16728000" />
+    <option name="totallyTimeSpent" value="17736000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="116" width="978" height="863" extended-state="0" />
+    <frame x="1028" y="140" width="652" height="798" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20062695" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3042789" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3138781" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3427762" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -338,8 +338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../VueJS-lessons/Lesson3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="181">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
     </entry>
