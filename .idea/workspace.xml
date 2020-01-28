@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a42d58bd-64cf-4b5e-ac74-dc3570673eaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../VueJS-lessons/css/lesson3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VueJS-lessons/exercise4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../VueJS-lessons/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/Lesson2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/lesson2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/Lesson3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/lesson3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/css/Lesson3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/exercise4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/exercise4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js" beforeDir="false" afterPath="$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,20 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../VueJS-lessons/exercise4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="173">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+            <state relative-caret-position="345">
+              <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -42,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -136,8 +133,8 @@
         <option value="$PROJECT_DIR$/../VueJS-lessons/css/Lesson3.css" />
         <option value="$PROJECT_DIR$/../VueJS-lessons/Lesson3.html" />
         <option value="$PROJECT_DIR$/../VueJS-lessons/css/Exercise4.css" />
-        <option value="$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js" />
         <option value="$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css" />
+        <option value="$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js" />
         <option value="$PROJECT_DIR$/../VueJS-lessons/exercise4.html" />
       </list>
     </option>
@@ -245,24 +242,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579721486445</updated>
-      <workItem from="1579721489885" duration="25957000" />
+      <workItem from="1579721489885" duration="26666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25957000" />
+    <option name="totallyTimeSpent" value="26666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11573237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11573237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.27344632" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4996986" visible="true" weight="0.27344632" />
+      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50030136" side_tool="true" visible="true" weight="0.27344632" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -443,22 +440,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../VueJS-lessons/css/exercise4.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../VueJS-lessons/exercise4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        <state relative-caret-position="240">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../VueJS-lessons/js/exercise4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        <state relative-caret-position="345">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VueJS-lessons/exercise4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>

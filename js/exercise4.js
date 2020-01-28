@@ -3,7 +3,9 @@ new Vue({
     data: {
         switchClass: true,
         startDemo: false,
-        timerId: null
+        timerId: null,
+        italic: 'italic',
+        chosenClass: null
     },
     computed: {
         divClasses: function() {

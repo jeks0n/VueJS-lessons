@@ -16,11 +16,11 @@
         <div id="effect" :class="divClasses"></div>
     </div>
     <!-- 2) Create a couple of CSS classes and attach them via the array syntax -->
-    <div :class="['curl', 'center']">I got no class :(</div>
+    <div :class="[italic, {center: true}]">I got no class :(</div>
     <!-- 3) Let the user enter a class (create some example classes) and attach it -->
     <div>
-        <input type="text">
-        <div></div>
+        <input type="text" v-model="chosenClass">
+        <div :class="chosenClass"></div>
     </div>
     <!-- 4) Let the user enter a class and enter true/ false for another class (create some example classes) and attach the classes -->
     <div>
