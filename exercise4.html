@@ -19,24 +19,24 @@
     <div :class="[italic, {center: true}]">I got no class :(</div>
     <!-- 3) Let the user enter a class (create some example classes) and attach it -->
     <div>
-        <input type="text" v-model="chosenClass">
-        <div :class="chosenClass"></div>
+        <input type="text" v-model="input1">
+        <div :class="input1"></div>
     </div>
     <!-- 4) Let the user enter a class and enter true/ false for another class (create some example classes) and attach the classes -->
     <div>
-        <input type="text">
-        <input type="text">
-        <div></div>
+        <input type="text" v-model="input2">
+        <input type="text" v-model="input3">
+        <div :class="[input2,{block2: input3 == 'true' ? true : false}]"></div>
     </div>
     <!-- 5) Repeat 3) but now with values for styles (instead of class names). Attach the respective styles.  -->
     <div>
-        <input type="text">
-        <div></div>
+        <input type="text" v-model="input4">
+        <div :style="input4"></div>
     </div>
     <!-- 6) Create a simple progress bar with setInterval and style bindings. Start it by hitting the below button. -->
     <div>
-        <button>Start Progress</button>
-        <div></div>
+        <button @click="startProgressBar">Start Progress</button>
+        <div :style="progressBar"></div>
     </div>
 </div>
 
