@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a42d58bd-64cf-4b5e-ac74-dc3570673eaf" name="Default Changelist" comment="v-else-if in Vue.js">
-      <change afterPath="$PROJECT_DIR$/lesson4.html" afterDir="false" />
+    <list default="true" id="a42d58bd-64cf-4b5e-ac74-dc3570673eaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="405">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson5.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/js/solutionfromteacher4.js" />
         <option value="$PROJECT_DIR$/solutionfromteacher4.html" />
         <option value="$PROJECT_DIR$/lesson4.html" />
+        <option value="$PROJECT_DIR$/lesson5.html" />
       </list>
     </option>
   </component>
@@ -89,8 +100,8 @@
     <bower.json value="" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="792" />
-    <option name="y" value="47" />
+    <option name="x" value="808" />
+    <option name="y" value="23" />
     <option name="width" value="888" />
     <option name="height" value="932" />
   </component>
@@ -194,20 +205,29 @@
       <updated>1579721486445</updated>
       <workItem from="1579721489885" duration="28431000" />
       <workItem from="1580292962704" duration="10180000" />
-      <workItem from="1580411962236" duration="450000" />
+      <workItem from="1580411962236" duration="1068000" />
     </task>
+    <task id="LOCAL-00001" summary="v-else-if in Vue.js">
+      <created>1580412596229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580412596229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39061000" />
+    <option name="totallyTimeSpent" value="39679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="792" y="47" width="888" height="932" extended-state="0" />
+    <frame x="808" y="23" width="888" height="932" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3217993" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3217993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" sideWeight="0.4994233" visible="true" weight="0.3297619" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.4994233" visible="true" weight="0.3297619" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -437,8 +457,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="405">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
